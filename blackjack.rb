@@ -157,7 +157,7 @@ end
 # setup the game
 set_player_name(player)
 set_num_decks(num_decks)
-set_game_deck(game_deck, num_decks, cards
+set_game_deck(game_deck, num_decks, cards)
 shuffle(game_deck)
 
 #main game loop
